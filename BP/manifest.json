@@ -1,0 +1,59 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"CesarDev/ByCesarKun"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.43"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Where Did I Die?",
+		"description": "",
+		"min_engine_version": [
+			1,
+			21,
+			60
+		],
+		"uuid": "e7fbe392-1f02-4b65-8352-24deec46d481",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "4484e0cc-89a4-4444-9523-0ecc4cc50383",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "6bd56564-acd0-43e7-8d3e-296cc553467d",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.15.0"
+		}
+	]
+}
