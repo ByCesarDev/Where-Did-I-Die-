@@ -2,7 +2,7 @@
 
 The **Where Did I Die?** addon is a **Minecraft Bedrock** addon designed to improve your gameplay by sending you a message with the **exact coordinates** and **dimension** of where you died. This way, you can easily track your death location and make your recovery easier.
 
-![Where Did I Die? Addon Image](https://i.imgur.com/hOXYhTV.png)
+![Where Did I Die? Addon Image](https://i.imgur.com/w9678f2.png)
 
 <p align="center">
   <img src="https://img.shields.io/discord/1261813234403377153?style=for-the-badge&logo=discord&logoColor=white&labelColor=3182CE&color=66b3ff" alt="Discord">
