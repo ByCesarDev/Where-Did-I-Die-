@@ -12,7 +12,7 @@ The **Where Did I Die?** addon is a **Minecraft Bedrock** addon designed to impr
   <a href="https://ko-fi.com/bycesarkun" rel="nofollow">
     <img src="https://img.shields.io/static/v1?label=&message=Support&color=66b3ff&labelColor=3182CE&style=for-the-badge&logo=kofi&logoColor=white" alt="Support">
   </a>
-  <a href="https://github.com/ByCesarKun/where-did-i-die?tab=MIT-1-ov-file" rel="nofollow">
+  <a href="https://github.com/ByCesarDev/where-did-i-die?tab=MIT-1-ov-file" rel="nofollow">
     <img src="https://img.shields.io/static/v1?label=MIT&message=License&color=66b3ff&labelColor=3182CE&style=for-the-badge" alt="MIT License">
   </a>
 </p>
